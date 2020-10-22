@@ -54,7 +54,7 @@
   "directories": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/spacedeck/spacedeck-open.git"
+    "url": "https://github.com/oulan/spacedeck-open.git"
   },
   "keywords": [],
   "author": "Lukas F. Hartmann, Martin Güther",
